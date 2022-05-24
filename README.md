@@ -1,2 +1,7 @@
 # Demo-repo
-Learning Git-hub
+
+Learning Git-hub!!!
+
+*italic*  
+**bold**  
+***bold+italic***  
